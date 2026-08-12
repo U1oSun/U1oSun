@@ -18,7 +18,6 @@
 ### 🏆 Selected Work and Experience
 
 - [Evol-SAM3](https://github.com/AHideoKuzeA/Evol-SAM3), accepted to **ACM Multimedia 2026**
-- Persistent Contributor of [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
 - **Alibaba Amap**, LLM Application Algorithm Intern (2025), focusing on multi-agent systems
 - 🏡 Currently exploring streaming video understanding & agent memory mechanism
 
