@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi</h1>
 <p align="center">AI Researcher | MLLM | Agent | Memory</p>
 <p align="center">
   <a href="https://github.com/U1oSun">GitHub</a> &nbsp;|&nbsp;
