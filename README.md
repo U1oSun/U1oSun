@@ -19,7 +19,7 @@
 
 - [Evol-SAM3](https://github.com/AHideoKuzeA/Evol-SAM3), accepted to **ACM Multimedia 2026**
 - **Alibaba Amap**, LLM Application Algorithm Intern (2025), focusing on multi-agent systems
-- 🏡 Currently exploring streaming video understanding & agent memory mechanism
+- 🏡 Currently exploring streaming video understanding & agent memory mechanism & agent harness
 
 ### Beyond Code 📷
 
