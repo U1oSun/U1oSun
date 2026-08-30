@@ -23,4 +23,4 @@
 
 ### Beyond Code 
 
-Outside of research, I enjoy photography. 📷Savour the moments of light and shadow in the [gallery](https://uiosun-gallery.pages.dev/).
+Outside of research, I enjoy photography. 📷Savour the moments of light and shadow in the [photo gallery](https://uiosun-gallery.pages.dev/).
