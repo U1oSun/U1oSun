@@ -21,6 +21,6 @@
 - **Alibaba Amap**, LLM Application Algorithm Intern (2025), focusing on multi-agent systems
 - 🏡 Currently exploring streaming video understanding & agent memory mechanism & agent harness
 
-### Beyond Code 📷
+### Beyond Code 
 
-Outside of research, I enjoy photography.
+Outside of research, I enjoy photography. 📷Savour the moments of light and shadow in the [gallery](https://uiosun-gallery.pages.dev/).
